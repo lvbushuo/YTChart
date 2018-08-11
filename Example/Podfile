@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YTChart_Example' do
+  pod 'YTChart', :path => '../'
+
+  target 'YTChart_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

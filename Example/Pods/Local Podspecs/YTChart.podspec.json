@@ -1,0 +1,22 @@
+{
+  "name": "YTChart",
+  "version": "0.1.0",
+  "summary": "A short description of YTChart.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lvshouyi/YTChart",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lvshouyi": "lvshouyi@126.com"
+  },
+  "source": {
+    "git": "https://github.com/lvshouyi/YTChart.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YTChart/Classes/**/*"
+}

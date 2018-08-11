@@ -1,0 +1,16 @@
+PODS:
+  - YTChart (0.1.0)
+
+DEPENDENCIES:
+  - YTChart (from `../`)
+
+EXTERNAL SOURCES:
+  YTChart:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YTChart: 35345063ffd920c3e6241682b4a940bdcb764cae
+
+PODFILE CHECKSUM: 1acdb1bc3fa9699ca7523676c23ad68246010e4e
+
+COCOAPODS: 1.5.3

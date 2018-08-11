@@ -1,0 +1,6 @@
+framework module YTChart {
+  umbrella header "YTChart-umbrella.h"
+
+  export *
+  module * { export * }
+}

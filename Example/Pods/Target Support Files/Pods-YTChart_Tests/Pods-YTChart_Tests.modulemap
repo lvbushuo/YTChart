@@ -1,0 +1,6 @@
+framework module Pods_YTChart_Tests {
+  umbrella header "Pods-YTChart_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
